@@ -3,3 +3,7 @@
 ## Today
 
 Foggy & cold.
+
+## Tomorrow
+
+Cold.
